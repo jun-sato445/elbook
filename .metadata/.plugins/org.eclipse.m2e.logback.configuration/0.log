@@ -750,3 +750,18 @@
 2021-04-19 10:11:56,467 [Worker-5: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-04-19 10:11:56,467 [Worker-5: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-04-19 10:11:56,467 [Worker-5: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JunSato\Documents\elbook\elbooks\src\test\resources
+2021-04-19 13:44:31,143 [Worker-34: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 13:44:31,143 [Worker-34: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 13:44:31,143 [Worker-34: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-19 13:44:31,143 [Worker-34: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-19 13:44:31,143 [Worker-34: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 13:44:31,143 [Worker-34: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 13:44:31,143 [Worker-34: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JunSato\Documents\elbook\elbooks\src\test\resources
+2021-04-19 13:44:46,569 [main] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Scanning for dialect help files on project dependencies
+2021-04-19 13:44:46,933 [pool-12-thread-6] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Java8Time.xml
+2021-04-19 13:44:46,933 [pool-12-thread-7] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Standard-Dialect.xml
+2021-04-19 13:44:46,955 [pool-12-thread-2] INFO  o.t.e.e.d.ProjectDependencyDialectLocator - Help file found: Spring-Security-Dialect.xml
+2021-04-19 13:44:52,824 [Worker-37: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 13:44:52,825 [Worker-37: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 13:44:52,825 [Worker-37: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-19 13:44:52,825 [Worker-37: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
