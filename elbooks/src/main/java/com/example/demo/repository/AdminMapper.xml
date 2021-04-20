@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.repository.AdminMapper">
+
+<!-- スレッド一覧の検索 -->
+	<select id="findAll" resultType="com.example.demo.entity.Book">
+		select * from m_book
+<!-- 		select A.id,A.title,A.now_date,B.username from threads as A inner join -->
+<!-- 		users as B on A.user_id=B.id order by A.id DESC -->
+	</select>
+	<!-- /スレッド一覧の検索 -->
+
+<!-- 本のセーブ -->
+	<insert id="save" parameterType="com.example.demo.entity.Book">
+		insert into
+		m_book (title,author) values (#{title},#{author})
+	</insert>
+	<!-- /本のセーブ -->
+
+
+</mapper>

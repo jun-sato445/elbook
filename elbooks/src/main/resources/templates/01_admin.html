@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>管理者画面</title>
+
+</head>
+<body>
+	<!-- header -->
+	<header>
+		<!-- 	タイトル -->
+		管理者画面<br>
+		<!-- 	/タイトル -->
+
+		<!-- 	ユーザーのコントローラー -->
+		<a href="#">戻る</a> <br> <a href="#">ログアウト</a><br>
+		<!-- 	/ユーザーのコントローラー -->
+
+		<!-- 	一覧ボタンの表示 -->
+		<table    align="right">
+			<tr>
+			<th><a href="/06_book_register">本の登録</a></th>
+				<th><a href="/01_admin">本一覧</a></th>
+				<th><a href="/04_stock">在庫管理一覧</a></th>
+				<th><a href="/02_user_information">ユーザー情報一覧</a></th>
+				<th><a href="/05_history">アクセス履歴一覧</a></th>
+				<th><a href="/03_Inquiry">問い合わせ一覧</a></th>
+			</tr>
+		</table>
+		<!-- 	/一覧ボタンの表示 -->
+
+		<br clear="all">
+
+		<!-- 	検索ボタンの表示 -->
+		<table align="right">
+			<tr>
+				<th><a href="#">貸出中のみ</a></th>
+				<th><a href="#">予約済み</a></th>
+				<th><a href="#">アクセス制限</a></th>
+				<th><form  id="aaa" action="redirect:/01_admin" method="POST">
+						<input type="text" name="scope"></input>
+						<button type="submit" id="aaa">検索</button>
+					</form></th>
+				
+			</tr>
+		</table>
+		<!-- 	/検索ボタンの表示 -->
+
+
+		<!-- 	水平線 -->
+		<br>
+		<hr>
+		<!-- /水平線 -->
+
+	</header>
+	<!-- /header -->
+
+
+
+	<!-- 	thymeleafで本の表示 -->
+	<table border="1" th:each="book:${books}" th:object="${book}">
+		<tr>
+			<th>画像</th>
+			<th>bookID</th>
+			<th>タイトル</th>
+			<th>著者</th>
+			<th>レンタル状況</th>
+			<th>予約状況</th>
+			<th>返却予定日</th>
+			<th>返却催促ボタン</th>
+			<th>編集</th>
+			<th>削除</th>
+		</tr>
+		<tr >
+			<th th:text="画像をいれる"></th>
+			<th th:text="*{book_id}"></th>
+			<th th:text="*{title}"></th>
+			<th th:text="*{author}"></th>
+			<!-- レンタル中かどうか表示(ロジックまだ) -->
+			<th th:text="レンタルありなし"></th>
+			<!-- レンタル中かレンタル可能 -->
+			<th th:text="予約ありなし"></th>
+			<th th:text="返却予定日"></th>
+			<th>催促ボタンをいれる</th>
+			<th>借りられている時は編集できない</th>
+			<th>借りられている時は削除できない</th>
+		</tr>
+	</table>
+	<!-- 	/thymeleafで本の表示 -->
+</body>
+</html>
