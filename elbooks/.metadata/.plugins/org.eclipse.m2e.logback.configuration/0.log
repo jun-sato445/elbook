@@ -1,2 +1,129 @@
 2021-04-19 13:18:23,858 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-04-19 13:28:31,089 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-19 16:56:16,527 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-19 17:22:14,596 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOKS:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOKS/pom.xml.
+2021-04-19 17:22:19,554 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/main/java
+2021-04-19 17:22:19,555 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:19,561 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:19,575 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/test/java
+2021-04-19 17:22:23,019 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2021-04-19 17:22:23,024 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:22:24,014 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOKS:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOKS/pom.xml.
+2021-04-19 17:22:25,497 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/main/java
+2021-04-19 17:22:25,498 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:25,539 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:25,590 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/test/java
+2021-04-19 17:22:26,010 [Worker-12: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-04-19 17:22:27,063 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:22:29,479 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOKS:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOKS/pom.xml.
+2021-04-19 17:22:30,941 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/main/java
+2021-04-19 17:22:30,941 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:30,942 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:30,942 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/test/java
+2021-04-19 17:22:31,326 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-04-19 17:22:31,332 [Worker-16: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:22:32,066 [Worker-16: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOKS:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOKS/pom.xml.
+2021-04-19 17:22:33,129 [Worker-16: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/main/java
+2021-04-19 17:22:33,130 [Worker-16: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:33,130 [Worker-16: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:33,131 [Worker-16: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/test/java
+2021-04-19 17:22:33,413 [Worker-16: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-04-19 17:22:33,421 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:22:33,994 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOKS:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOKS/pom.xml.
+2021-04-19 17:22:35,034 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/main/java
+2021-04-19 17:22:35,034 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:35,034 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:35,035 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/test/java
+2021-04-19 17:22:35,285 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-04-19 17:22:35,293 [Worker-17: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:22:35,961 [Worker-17: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOKS:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOKS/pom.xml.
+2021-04-19 17:22:36,944 [Worker-17: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/main/java
+2021-04-19 17:22:36,944 [Worker-17: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:36,944 [Worker-17: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOKS/src/main/resources
+2021-04-19 17:22:36,945 [Worker-17: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOKS/src/test/java
+2021-04-19 17:22:37,247 [Worker-17: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-04-19 17:22:38,365 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 17:22:38,366 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 17:22:38,372 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-19 17:22:38,390 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-19 17:22:38,394 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 17:22:38,394 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 17:22:38,394 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOKS/src/test/resources
+2021-04-19 17:24:56,738 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOK:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/pom.xml.
+2021-04-19 17:24:58,263 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/main/java
+2021-04-19 17:24:58,264 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:24:58,270 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:24:58,282 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/test/java
+2021-04-19 17:24:58,821 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2021-04-19 17:24:58,823 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:24:59,385 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOK:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/pom.xml.
+2021-04-19 17:25:00,669 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/main/java
+2021-04-19 17:25:00,675 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:00,770 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:00,866 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/test/java
+2021-04-19 17:25:01,417 [Worker-16: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-04-19 17:25:01,466 [Worker-12: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:25:02,331 [Worker-12: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOK:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/pom.xml.
+2021-04-19 17:25:04,066 [Worker-12: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/main/java
+2021-04-19 17:25:04,067 [Worker-12: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:04,067 [Worker-12: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:04,072 [Worker-12: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/test/java
+2021-04-19 17:25:05,024 [Worker-12: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-04-19 17:25:05,046 [Worker-14: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:25:07,015 [Worker-14: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOK:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/pom.xml.
+2021-04-19 17:25:08,623 [Worker-14: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/main/java
+2021-04-19 17:25:08,624 [Worker-14: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:08,624 [Worker-14: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:08,625 [Worker-14: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/test/java
+2021-04-19 17:25:09,187 [Worker-14: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-04-19 17:25:09,194 [Worker-13: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:25:10,030 [Worker-13: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOK:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/pom.xml.
+2021-04-19 17:25:11,328 [Worker-13: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/main/java
+2021-04-19 17:25:11,329 [Worker-13: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:11,329 [Worker-13: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:11,330 [Worker-13: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/test/java
+2021-04-19 17:25:11,878 [Worker-13: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-04-19 17:25:11,897 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-19 17:25:12,829 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ELBOOK:0.0.1-SNAPSHOT @ /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/pom.xml.
+2021-04-19 17:25:14,173 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/main/java
+2021-04-19 17:25:14,173 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:14,174 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ELBOOK/src/main/resources
+2021-04-19 17:25:14,176 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ELBOOK/src/test/java
+2021-04-19 17:25:14,992 [Worker-15: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-04-19 17:25:16,688 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 17:25:16,689 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 17:25:16,690 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-19 17:25:16,854 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-19 17:25:16,864 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 17:25:16,864 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 17:25:16,864 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/src/test/resources
+2021-04-19 17:25:28,852 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 17:25:28,853 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 17:25:28,855 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-19 17:25:28,863 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-19 17:25:28,864 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 17:25:28,864 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-19 17:25:28,864 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/src/test/resources
+2021-04-19 17:33:43,281 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-20 09:02:37,983 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-20 09:39:35,981 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-20 09:39:35,991 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-20 09:39:35,998 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-20 09:39:36,021 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-20 09:39:36,025 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-20 09:39:36,027 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-20 09:39:36,027 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/src/test/resources
+2021-04-20 09:41:52,983 [Worker-5: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-20 09:41:52,983 [Worker-5: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-20 09:41:52,987 [Worker-5: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-20 09:41:52,987 [Worker-5: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-20 09:41:52,992 [Worker-5: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-20 09:41:52,993 [Worker-5: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-20 09:41:52,993 [Worker-5: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/src/test/resources
+2021-04-20 09:42:29,604 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-20 09:42:29,605 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-20 09:42:29,605 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-20 09:42:29,609 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-20 09:42:29,617 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-20 09:42:29,617 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-20 09:42:29,617 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/arai/Documents/elbooks/elbook/elbooks/ELBOOK/src/test/resources
