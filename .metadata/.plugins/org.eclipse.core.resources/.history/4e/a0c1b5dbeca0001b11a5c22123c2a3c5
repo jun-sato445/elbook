@@ -1,0 +1,7 @@
+package com.example.demo.conf;
+
+
+@EnableWebSecurity
+public class SecurityConfigration {
+	
+}

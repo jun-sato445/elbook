@@ -1,0 +1,65 @@
+package com.example.demo.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.Repository;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Repository
+@Controller
+@RequestMapping("/sample_pages")
+public class SamplePagesController {
+	//1.ログイン画面 担当：新井
+	@GetMapping("/login")
+    public String Login() {
+    	return "pages/login.html";
+    }
+	
+	//2.マイページ 担当：高安
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	//3.モーダル画面 担当：山内
+	@GetMapping("/modal")
+    public String Modal() {
+    	return "pages/book.html";
+    }
+	
+	//4.貸出リスト 担当：新井
+	@GetMapping("/bookHistory")
+    public String BookHistory() {
+    	return "pages/bookHistory.html";
+    }
+	
+	//5.書籍登録画面 担当：新井
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	//6.書籍編集画面 担当：大平
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	//7.ユーザー登録画面 担当：
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+
+
+}

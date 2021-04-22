@@ -1,0 +1,18 @@
+package com.example.demo.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.Repository;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Repository
+@Controller
+public class IndexController {
+
+	@GetMapping("/")
+    public String Main( Model model) {
+    	return "Index.html";
+    }
+
+
+}

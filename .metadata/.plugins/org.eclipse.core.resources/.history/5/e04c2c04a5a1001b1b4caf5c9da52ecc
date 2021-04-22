@@ -1,0 +1,7 @@
+package com.example.demo.mapper.index;
+
+@Repository
+@Mapper
+public class IndexMapper {
+
+}

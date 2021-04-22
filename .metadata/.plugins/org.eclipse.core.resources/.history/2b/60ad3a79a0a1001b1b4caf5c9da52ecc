@@ -1,0 +1,8 @@
+package com.example.demo.controller;
+
+@Repository
+@Controller
+public class IndexController {
+
+	
+}

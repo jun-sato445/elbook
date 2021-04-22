@@ -1,0 +1,18 @@
+package com.example.demo.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.Repository;
+
+@Repository
+@Controller
+public class IndexController {
+
+	@GetMapping("/")
+    public String Main( Model model) {
+    	model.addAttribute("response", main.findAll());
+    	
+    	return "page/main";
+    }    
+	
+	
+}

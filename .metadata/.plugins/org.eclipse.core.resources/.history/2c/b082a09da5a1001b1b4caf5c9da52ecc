@@ -1,0 +1,11 @@
+package com.example.demo.entity;
+
+import lombok.Data;
+
+@Data
+public class Index {
+	int id;
+	String login_user;
+	String password;
+	String name;
+}

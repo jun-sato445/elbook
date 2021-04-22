@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>test</h1>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+<button type="button" class="btn btn-secondary" onclick="location.href='http://localhost:8080/sample_pages/login'">ログイン画面</button>
+</body>
+</html>

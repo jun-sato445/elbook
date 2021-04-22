@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ヘッダー画面</title>
+    <link rel="stylesheet" href="heder.css">
+</head>
+<body>
+    <header>
+
+        <h1>ELBOOK</h1>
+
+        <div class="selectdiv">
+            <label>
+                <select name="select" onChange="location.href=value;">
+                    <option selected> アカウント&リスト </option>
+                    <option value="">ユーザー情報変更</option>
+                    <option value="">ログアウト</option>
+                </select>
+            </label>
+          </div>
+
+          <nav>
+                <ul>
+                    <li><a href="">貸出リスト</a></li>
+                    <li><a href="">お問い合わせ</a></li>
+                </ul>
+          </nav>
+
+    </header>
+
+
+</body>
+</html>

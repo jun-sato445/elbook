@@ -1,0 +1,108 @@
+body {
+  background: #FFFFFF;
+}
+
+header {
+  background-color: #f1f1f1;
+  width: 100%;
+  height: 70px;
+  margin-bottom: 30px;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+
+.header-nav {
+  margin: 0 0 0 auto;
+  padding: 20px 3% 5px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  display: flex;
+}
+
+li {
+  margin: 0 0 0 15px;
+  font-size: 14px;
+}
+
+.header-menu {
+  text-decoration: none;
+  color: #4b4b4b;
+}
+
+header img {
+  height: 70px;
+}
+
+ul.menu ul {
+  margin: 0px;
+  padding: 0px;
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  right: 0;
+  top: 70px;
+  border: 0.5px solid #4b4b4b;
+}
+
+ul.menu li:hover > ul {
+  display: block;
+}
+
+ul.menu ul ul {
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+
+ul.menu ul li {
+  width: 200px;
+  margin: 20px;
+  text-align: center;
+}
+
+ul.menu ul li a {
+  text-decoration: none;
+  display: block;
+}
+
+.contents-form {
+  position: absolute;
+  left: 50px;
+}
+
+.item {
+  display: inline-block;
+}
+
+.item-label::after {
+  content: " *必須";
+  color: #E00;
+}
+
+.form-input {
+  width: 500px;
+  height: 40px;
+  margin-bottom: 15px;
+  background: #f1f1f1;
+}
+
+.form-button {
+  text-align: right;
+}
+
+.form-button-login {
+  padding: 5px 40px;
+  background-color: #ff4f50;
+  color: #ffffff;
+  border-radius: 5%;
+  border: 2px solid #ff4f50;
+}
+
+.form-button-login:hover {
+  color: #ff4f50;
+  background: #ffffff;
+}

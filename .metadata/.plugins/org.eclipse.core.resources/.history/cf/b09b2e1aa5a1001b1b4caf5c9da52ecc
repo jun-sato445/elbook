@@ -1,0 +1,12 @@
+package com.example.demo.mapper.index;
+
+import org.apache.ibatis.annotations.Mapper;
+import org.springframework.stereotype.Repository;
+
+@Repository
+@Mapper
+public class IndexMapper {
+	List<User>findAll();
+	List<User>Insert();
+	List<User>Delete();
+}

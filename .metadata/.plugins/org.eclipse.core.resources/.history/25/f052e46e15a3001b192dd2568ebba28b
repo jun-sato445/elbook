@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ユーザー一覧画面</title>
+    <link rel="stylesheet" href="userlist.css">
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+
+        <h1>ELBOOK</h1>
+
+        <div class="selectdiv">
+            <label>
+                <select name="select" onChange="location.href=value;">
+                    <option selected> アカウント&リスト </option>
+                    <option value="">ユーザー新規登録</option>
+                    <option value="">書籍新規登録</option>
+                    <option value="">お問い合わせ</option>
+                    <option value="">ログアウト</option>
+                </select>
+            </label>
+          </div>
+
+          <nav>
+                <ul>
+                    <li><a href="">貸出リスト</a></li>
+                    <li><a href="">お問い合わせ</a></li>
+                </ul>
+          </nav>
+
+    </header>
+
+    <p><i class="fas fa-users"></i>ユーザー一覧</p>
+
+
+    <table>
+        <tr>
+          <th>ID</th>
+          <th>ユーザーネーム</th>
+          <th>メールアドレス</th>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>山田太郎</td>
+          <td>kriyah@gomh.com</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>潮山多喜男</td>
+          <td>takio@kkiu.com</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>小滝淳子</td>
+          <td>jun.okrt@dik.com</td>
+        </tr>
+      </table>
+
+</body>
+</html>

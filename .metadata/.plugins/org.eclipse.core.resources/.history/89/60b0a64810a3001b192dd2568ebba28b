@@ -1,0 +1,62 @@
+package com.example.demo.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.stereotype.Repository;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Repository
+@Controller
+@RequestMapping("/sample_pages")
+public class SamplePagesController {
+	//ログイン画面 担当：新井
+	@GetMapping("/login")
+    public String Login() {
+    	return "pages/login.html";
+    }
+	
+	//マイページ 担当：新井
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	//モーダル画面 担当：山内
+	@GetMapping("/modal")
+    public String Modal() {
+    	return "pages/book.html";
+    }
+	
+	//
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+	
+	@GetMapping("/mypage")
+    public String Mypage() {
+    	return "pages/mypage.html";
+    }
+
+
+}
