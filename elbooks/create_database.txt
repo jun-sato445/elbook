@@ -35,7 +35,7 @@ CREATE TABLE m_book(
 
     max_num int(2),
     entry_day datetime DEFAULT CURRENT_TIMESTAMP,
-    updatetime datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    updatetime datetime DEFAULT CURRENT_TIMESTAMP,
     isdeleted int(1) DEFAULT 0,
     page int(255),
 
