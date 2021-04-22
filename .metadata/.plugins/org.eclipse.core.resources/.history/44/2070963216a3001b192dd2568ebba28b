@@ -78,7 +78,7 @@ public class SamplePagesController {
 	//12.お問い合わせ一覧画面 担当：佐藤
 	@GetMapping("/contact_us_mtg")
     public String ContactUsMtg() {
-    	return "pages/ContactUs_mgt.html";
+    	return "pages/ContactUs_mtg.html";
     }
 
 }
